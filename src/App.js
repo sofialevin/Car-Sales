@@ -19,11 +19,11 @@ const App = () => {
     <div className="boxes">
       <div className="box">
         <Header />
-        {/* <AddedFeatures />
+        <AddedFeatures />
       </div>
       <div className="box">
         <AdditionalFeatures  />
-        <Total  /> */}
+        <Total  />
       </div>
     </div>
   );
